@@ -44,4 +44,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # get travis to work
-gem 'nokogiri'
+gem "nokogiri", ">= 1.6.7.rc"
